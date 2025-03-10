@@ -1,3 +1,7 @@
 title: Mi Sitio
 description: Un sitio con mis proyectos y más
 theme: jekyll-theme-minimal
+collections:
+  projects:
+  output: true
+  permalink: /projects/:title/
